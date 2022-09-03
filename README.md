@@ -3,8 +3,8 @@
 <h2>👨‍💻 Data Analysis Portfolio Projects:</h2>
 <h4><b>Data Cleaning using SQL and Excel</b></h4>
  
- - [Data Cleaning using Housing Data](https://github.com/joshmadakor1/Algorithms-Practice)
- - [MS Excel Data Cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Housing Data](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Sales Data](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
  - [COVID-19 Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
