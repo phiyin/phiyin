@@ -1,7 +1,7 @@
 <h1>Hi, I'm Fiyin! <br/><a href="https://github.com/phiyin"></h1>
 
 <h2>👨‍💻 Data Analysis Portfolio Projects:</h2>
-<h4><b>Data Cleaning using SQL and Excel</b></h4>
+<h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
  - [Housing Data](https://github.com/joshmadakor1/Algorithms-Practice)
  - [Sales Data](https://github.com/joshmadakor1/Algorithms-Practice)
