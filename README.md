@@ -1,6 +1,7 @@
 <h1>Hi, I'm Fiyin! <br/><a href="https://github.com/phiyin"></h1> 
 
-<h2>👨‍💻 Data Analysis Portfolio Projects:<a href="https://github.com/phiyin/Data-Analyst-Portfolio-Projects"></h2>
+<h2>👨‍💻 Data Analysis Portfolio Projects <a href="https://github.com/phiyin/Data-Analyst-Portfolio-Projects"> </h2>
+
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
  - [Housing Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
