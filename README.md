@@ -11,6 +11,7 @@
  - [COVID-19 Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20COVID-19%20Data)
  - [Sales Volume Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
  - [Census Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Instragram Clone Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
  
  <b>Data Visualization using Tableau and Power BI</b>
  - [COVID-19 Data Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
