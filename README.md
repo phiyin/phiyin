@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Portfolio Projects:</h2>
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
- - [Housing Data](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Housing Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
  - [Sales Data](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
