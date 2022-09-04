@@ -5,19 +5,19 @@
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
  - [Housing Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
- - [Sales Data](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Sales Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
  - [COVID-19 Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20COVID-19%20Data)
  - [Sales Volume Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
  - [Census Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Instragram Clone Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Instragram Clone Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20INSTAGRAM%20CLONE%20Data)
  
  <b>Data Visualization using Tableau and Power BI</b>
- - [COVID-19 Data Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Sales Data Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Census Data Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Housing Data Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [COVID-19 Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
+ - [Sales Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
+ - [Census Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
+ - [Housing Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
 
 <h2> 🤳 Connect with me:</h2>
 
