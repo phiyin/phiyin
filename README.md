@@ -9,7 +9,7 @@
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
  - [COVID-19 Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20COVID-19%20Data)
- - [Sales Volume Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Sales Volume Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20VOLUME%20DATA%20EXPLORATION%20AND%20ANALYSIS.xlsb)
  - [Census Data Exploration and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
  - [Instragram Clone Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20INSTAGRAM%20CLONE%20Data)
  
