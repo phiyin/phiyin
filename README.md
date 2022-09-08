@@ -1,6 +1,7 @@
-<h1>Hi, I'm Fiyin! <br/><a href="https://github.com/phiyin"></h1> 
+<h1 align="center">Hi 👋, I'm Fiyinfolu Akanro.</h1>
+<h3 align="center">A Data Analyst with an Ocular Mind for Analysis and Creative Visualizations.</h3>
 
-<h2>👨‍💻 Data Analysis Portfolio Projects <a href="https://github.com/phiyin/Data-Analyst-Portfolio-Projects"> </h2>
+👨‍💻 [Data Analysis Portfolio Projects](https://github.com/phiyin/Data-Analyst-Portfolio-Projects)
 
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
