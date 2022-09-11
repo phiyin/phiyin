@@ -15,7 +15,7 @@
  - [Instragram Clone Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20INSTAGRAM%20CLONE%20Data)
  
  <b>Data Visualization using Tableau and Power BI</b>
- - [COVID-19 Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
+ - [COVID-19 Data Dashboard](https://public.tableau.com/authoring/Covid-19Dashboard_16628693682360/Dashboard1#6)
  - [Sales Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
  - [Census Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
  - [Housing Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
