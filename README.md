@@ -17,13 +17,11 @@
  <b>Data Visualization using Tableau and Power BI</b>
  - [COVID-19 Data Dashboard](https://public.tableau.com/authoring/Covid-19Dashboard_16628693682360/Dashboard1#1)
  - [Sales Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20DASHBOARD.pdf)
- - [Census Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
- - [Housing Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
-
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fiyinakanro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
