@@ -12,7 +12,7 @@
  - [COVID-19 Data Exploration and Analysis](https://github.com/phiyin/Portfolio_Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20-%20COVID-19%20Data)
  - [Sales Volume Data Exploration and Analysis](https://github.com/phiyin/Portfolio_Projects/blob/main/Excel%20Data%20Exploration%20and%20Analysis%20-%20Sales%20Volume%20Data2.xlsb)
  - [Census Data Exploration and Analysis](https://github.com/phiyin/Portfolio_Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20-%20Census%20Data)
- - [Instragram Clone Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20INSTAGRAM%20CLONE%20Data)
+ - [Instragram Clone Data Exploration and Analysis](https://github.com/phiyin/Portfolio_Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20-%20Instagram%20Clone)
  
  <b>Data Visualization using Tableau and Power BI</b>
  - [COVID-19 Dashboard](https://public.tableau.com/authoring/Covid-19Dashboard_16628693682360/Dashboard1#1)
