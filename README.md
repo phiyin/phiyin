@@ -6,7 +6,7 @@
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
  - [Housing Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
- - [Sales Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20DATA%20CLEANING%20AND%20PREPARATION.xlsb)
+ - [Sales Volume Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20DATA%20CLEANING%20AND%20PREPARATION.xlsb)
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
  - [COVID-19 Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20COVID-19%20Data)
@@ -15,8 +15,8 @@
  - [Instragram Clone Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20INSTAGRAM%20CLONE%20Data)
  
  <b>Data Visualization using Tableau and Power BI</b>
- - [COVID-19 Data Dashboard](https://public.tableau.com/authoring/Covid-19Dashboard_16628693682360/Dashboard1#1)
- - [Sales Data Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20DASHBOARD.pdf)
+ - [COVID-19 Dashboard](https://public.tableau.com/authoring/Covid-19Dashboard_16628693682360/Dashboard1#1)
+ - [Sales Volume Dashboard](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20DASHBOARD.pdf)
  
 <h2> 🤳 Connect with me:</h2>
 
