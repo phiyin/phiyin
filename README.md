@@ -5,7 +5,7 @@
 
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
- - [Housing Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
+ - [Housing Data](https://github.com/phiyin/Portfolio_Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation%20-%20Housing%20Data)
  - [Sales Volume Data](https://github.com/phiyin/Portfolio_Projects/blob/main/Excel%20Data%20Cleaning%20and%20Preparation%20-%20Sales%20Volume%20Data2.xlsb)
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
