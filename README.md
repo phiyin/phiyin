@@ -17,7 +17,7 @@
  <b>Data Visualization using Tableau and Power BI</b>
  - [COVID-19 Dashboard](https://public.tableau.com/authoring/Covid-19Dashboard_16628693682360/Dashboard1#1)
  - [Sales Volume Dashboard](https://github.com/phiyin/Portfolio_Projects/blob/main/Excel%20Data%20Visualization%20-%20Sales%20Volume%20Data2.xlsb)
- - [Detailed Sales Dashboard](https://github.com/phiyin/Portfolio_Projects/blob/main/Excel%20Data%20Visualization%20-%20Sales%20Volume%20Data2.xlsb)
+ - [Detailed Sales Dashboard](https://github.com/phiyin/Portfolio_Projects/blob/main/Power_BI%20Detailed%20Sales%20Dashboard.pdf)
  
 <h2> 🤳 Connect with me:</h2>
 
