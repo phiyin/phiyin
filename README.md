@@ -6,7 +6,7 @@
 <h4><b>Data Cleaning and Preparation using SQL and Excel</b></h4>
  
  - [Housing Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Cleaning%20and%20Preparation)
- - [Sales Volume Data](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SALES%20DATA%20CLEANING%20AND%20PREPARATION.xlsb)
+ - [Sales Volume Data](https://github.com/phiyin/Portfolio_Projects/blob/main/Excel%20Data%20Cleaning%20and%20Preparation%20-%20Sales%20Volume%20Data2.xlsb)
  
 <b>Data Exploration and Analysis using SQL and Excel</b>
  - [COVID-19 Data Exploration and Analysis](https://github.com/phiyin/Data-Analyst-Portfolio-Projects/blob/main/SQL%20Data%20Exploration%20and%20Analysis%20using%20COVID-19%20Data)
